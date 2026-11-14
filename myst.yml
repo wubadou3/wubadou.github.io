@@ -13,7 +13,7 @@ project:
     - file: index.md
     - file: lecture_16_example.ipynb
     - file: project_1/project1_code.ipynb
-      title: Project 1 · Taiwanese Bankruptcy
+      title: Project 1 - Taiwanese Bankruptcy
     
 site:
   # Keep the Book Theme release compatible with this Jupyter Book build.
