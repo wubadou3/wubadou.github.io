@@ -16,7 +16,8 @@ project:
       title: Project 1 · Taiwanese Bankruptcy
     
 site:
-  template: book-theme
+  # Keep the Book Theme release compatible with this Jupyter Book build.
+  template: https://github.com/myst-templates/book-theme/archive/23f2df5493e23dfb1d9433c8aa64c87beb4232a3.zip
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
